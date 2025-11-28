@@ -1,2 +1,1 @@
-# two-sorting
-cant you read the repo name you dumy
+this is about sorting a list of numbers nothing else to see here bye!
